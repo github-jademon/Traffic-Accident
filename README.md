@@ -1,5 +1,4 @@
 # Traffic-Accident
---- 
 ### Description
 > 학생들의 교통사고에 대한 경각심 향상을 목적으로 하는 프로젝트
 
